@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @midorihitsuji
+- 👀 I’m interested in ... video games, languages, music, travelling and computers.
+- 🌱 I’m currently learning about git, javascript, and following courses to become a full-stack developer. 
